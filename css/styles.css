@@ -1,0 +1,131 @@
+/* Global Styles */
+:root {
+    --primary-dark: #001428;
+    --primary: #0a3966;
+    --accent-blue: #4ecbff;
+    --accent-purple: #8a65de;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+.btn {
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.gradient-primary {
+    background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+}
+
+.gradient-accent {
+    background: linear-gradient(135deg, var(--accent-blue), var(--accent-purple));
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+    min-height: 80vh;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-image: url('https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+    background-size: cover;
+    opacity: 0.1;
+    z-index: 0;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+}
+
+/* Section Styles */
+.section-title {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 2rem;
+}
+
+.section-title::after {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 50px;
+    height: 4px;
+    background: var(--accent-blue);
+}
+
+/* Card Styles */
+.service-card, .portfolio-card, .blog-card {
+    transition: all 0.3s ease;
+}
+
+.service-card:hover, .portfolio-card:hover, .blog-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar */
+.navbar {
+    transition: all 0.3s ease;
+}
+
+.navbar.scrolled {
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Testimonials */
+.testimonial-card {
+    position: relative;
+}
+
+.testimonial-card::before {
+    content: """;
+    position: absolute;
+    top: -20px;
+    left: 20px;
+    font-size: 6rem;
+    color: var(--accent-blue);
+    opacity: 0.2;
+    line-height: 1;
+}
+
+/* Contact Form */
+.form-input:focus {
+    border-color: var(--accent-blue);
+    box-shadow: 0 0 0 3px rgba(78, 203, 255, 0.2);
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fadeIn {
+    animation: fadeIn 1s ease forwards;
+}
+
+.delay-100 { animation-delay: 0.1s; }
+.delay-200 { animation-delay: 0.2s; }
+.delay-300 { animation-delay: 0.3s; }
+.delay-400 { animation-delay: 0.4s; }
+.delay-500 { animation-delay: 0.5s; }
