@@ -217,7 +217,7 @@ function Home() {
                                         </div>
                                         <div data-id="izolppubp" data-path="pages/Home.js">
                                             <h3 className="text-lg font-semibold text-primary" data-id="y35tp4jsk" data-path="pages/Home.js">Email</h3>
-                                            <p className="text-gray-600" data-id="2cjtgwf43" data-path="pages/Home.js">info@kabutech.com</p>
+                                            <p className="text-gray-600" data-id="2cjtgwf43" data-path="pages/Home.js">infokabutech@gmail.com</p>
                                         </div>
                                     </div>
                                 </div>
