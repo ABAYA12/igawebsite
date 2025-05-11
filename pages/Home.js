@@ -207,7 +207,7 @@ function Home() {
                                         </div>
                                         <div data-id="83elslphc" data-path="pages/Home.js">
                                             <h3 className="text-lg font-semibold text-primary" data-id="ycuq1whcp" data-path="pages/Home.js">Phone/WhatsApp</h3>
-                                            <p className="text-gray-600" data-id="f9z61jpxf" data-path="pages/Home.js">0243069237</p>
+                                            <p className="text-gray-600" data-id="f9z61jpxf" data-path="pages/Home.js">+233243069237</p>
                                         </div>
                                     </div>
                                     
@@ -217,7 +217,7 @@ function Home() {
                                         </div>
                                         <div data-id="izolppubp" data-path="pages/Home.js">
                                             <h3 className="text-lg font-semibold text-primary" data-id="y35tp4jsk" data-path="pages/Home.js">Email</h3>
-                                            <p className="text-gray-600" data-id="2cjtgwf43" data-path="pages/Home.js">infokabutech@gmail.com</p>
+                                            <p className="text-gray-600" data-id="2cjtgwf43" data-path="pages/Home.js">support@kabutech.tech</p>
                                         </div>
                                     </div>
                                 </div>
