@@ -39,7 +39,7 @@ function Contact() {
                                     </div>
                                     <div data-id="l7c1yxueo" data-path="pages/Contact.js">
                                         <h3 className="text-xl font-semibold text-primary mb-1" data-id="pqzxsisq1" data-path="pages/Contact.js">Phone</h3>
-                                        <p className="text-gray-600" data-id="qph1qgwzs" data-path="pages/Contact.js">0243069237</p>
+                                        <p className="text-gray-600" data-id="qph1qgwzs" data-path="pages/Contact.js">+233243069237</p>
                                         <p className="text-gray-500 text-sm" data-id="cu0i03fyl" data-path="pages/Contact.js">Monday to Friday, 9am to 5pm</p>
                                     </div>
                                 </div>
@@ -61,7 +61,7 @@ function Contact() {
                                     </div>
                                     <div data-id="zg3j9r3fz" data-path="pages/Contact.js">
                                         <h3 className="text-xl font-semibold text-primary mb-1" data-id="pi1dhtap6" data-path="pages/Contact.js">Email</h3>
-                                        <p className="text-gray-600" data-id="8mum9plpt" data-path="pages/Contact.js">info@kabutech.com</p>
+                                        <p className="text-gray-600" data-id="8mum9plpt" data-path="pages/Contact.js">support@kabutech.tech</p>
                                         <p className="text-gray-500 text-sm" data-id="f8wzjmadb" data-path="pages/Contact.js">We'll respond as soon as possible</p>
                                     </div>
                                 </div>

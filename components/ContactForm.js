@@ -148,12 +148,12 @@ function ContactForm() {
 
                         <option value="" data-id="3yk25fyfq" data-path="components/ContactForm.js">Select a service</option>
                         <option value="Website Development" data-id="br6o8mb1a" data-path="components/ContactForm.js">Website Development</option>
-                        <option value="Application Development" data-id="63gjo39pw" data-path="components/ContactForm.js">Application Development</option>
-                        <option value="Website Design" data-id="dt6krm7hl" data-path="components/ContactForm.js">Website Design</option>
+                        <option value="Application Development" data-id="63gjo39pw" data-path="components/ContactForm.js">Mobile Application Development</option>
+                        <option value="Website Design" data-id="dt6krm7hl" data-path="components/ContactForm.js">Web Design</option>
                         <option value="Graphic Design" data-id="x3f8v45d8" data-path="components/ContactForm.js">Graphic Design</option>
-                        <option value="Python Programming" data-id="6nbkybav2" data-path="components/ContactForm.js">Python Programming</option>
+                        <option value="Python Programming" data-id="6nbkybav2" data-path="components/ContactForm.js">Teaching/Tuturial Services</option>
                         <option value="Data Engineering" data-id="qogjfbxq0" data-path="components/ContactForm.js">Data Engineering</option>
-                        <option value="Domain Name Registration" data-id="qr3w1cf47" data-path="components/ContactForm.js">Domain Name Registration</option>
+                        <option value="Domain Name Registration" data-id="qr3w1cf47" data-path="components/ContactForm.js">Data Analytics Services</option>
                         <option value="Other" data-id="x1enrtg3c" data-path="components/ContactForm.js">Other</option>
                     </select>
                 </div>
