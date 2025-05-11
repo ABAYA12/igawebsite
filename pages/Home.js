@@ -216,7 +216,7 @@ function Home() {
                                             <i className="fas fa-envelope" data-id="xmdbtsndf" data-path="pages/Home.js"></i>
                                         </div>
                                         <div data-id="izolppubp" data-path="pages/Home.js">
-                                            <h3 className="text-lg font-semibold text-primary" data-id="y35tp4jsk" data-path="pages/Home.js">Email</h3>
+                                            <h3 className="text-lg font-semibold text-primary" data-id="y35tp4jsk" data-path="pages/Home.js">Email Adress</h3>
                                             <p className="text-gray-600" data-id="2cjtgwf43" data-path="pages/Home.js">support@kabutech.tech</p>
                                         </div>
                                     </div>
