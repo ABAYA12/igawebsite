@@ -119,7 +119,7 @@ function ContactForm() {
             onChange={handleChange}
             required
             className="form-input w-full rounded border-gray-300 focus:ring-0 focus:outline-none"
-            placeholder="0243069237" data-id="orb9ab65j" data-path="components/ContactForm.js" />
+            placeholder="0249999000" data-id="orb9ab65j" data-path="components/ContactForm.js" />
 
                 </div>
                 

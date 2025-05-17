@@ -58,11 +58,11 @@ function Footer() {
                         <ul className="space-y-3" data-id="euyuzi5tx" data-path="components/Footer.js">
                             <li className="flex items-start space-x-3" data-id="bpo8m2046" data-path="components/Footer.js">
                                 <i className="fas fa-phone-alt mt-1 text-accent-blue" data-id="nfvrg5pbe" data-path="components/Footer.js"></i>
-                                <span data-id="9j76hqxt6" data-path="components/Footer.js">+233243069237</span>
+                                <span data-id="9j76hqxt6" data-path="components/Footer.js">+233 247 988 191</span>
                             </li>
                             <li className="flex items-start space-x-3" data-id="bo5ylgjg3" data-path="components/Footer.js">
                                 <i className="fab fa-whatsapp mt-1 text-accent-blue" data-id="1a9dn0btz" data-path="components/Footer.js"></i>
-                                <span data-id="gmh1n3gr7" data-path="components/Footer.js">+233243069237</span>
+                                <span data-id="gmh1n3gr7" data-path="components/Footer.js">+233 247 988 191</span>
                             </li>
                             <li className="flex items-start space-x-3" data-id="hpihh25ia" data-path="components/Footer.js">
                                 <i className="fas fa-envelope mt-1 text-accent-blue" data-id="t080bnxt2" data-path="components/Footer.js"></i>
