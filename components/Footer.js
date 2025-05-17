@@ -43,11 +43,11 @@ function Footer() {
                         <h3 className="text-lg font-semibold mb-4" data-id="yv239mb5e" data-path="components/Footer.js">Our Services</h3>
                         <ul className="space-y-2" data-id="8ewkrqst7" data-path="components/Footer.js">
                             <li data-id="yshln7wy2" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Website Development</Link></li>
-                            <li data-id="hpgbq092e" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Mobile Application Development</Link></li>
+                            <li data-id="hpgbq092e" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Mobile or Application Development</Link></li>
                             <li data-id="zb4nqg7i2" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Web Design</Link></li>
                             <li data-id="zb4nqg7i2" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Data Analytics Service</Link></li>
                             <li data-id="n1ud18vjm" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Graphic Design</Link></li>
-                            <li data-id="v3hpwbz9p" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Teaching/Tuturial - Practical</Link></li>
+                            <li data-id="v3hpwbz9p" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Python (Backend) Programming</Link></li>
                             <li data-id="g46o2zf10" data-path="components/Footer.js"><Link to="/services" className="text-gray-300 hover:text-accent-blue">Data Engineering</Link></li>
                         </ul>
                     </div>

@@ -9,12 +9,12 @@ function Home() {
   },
   {
     icon: "fas fa-mobile-alt",
-    title: "Application Development",
+    title: "Mobile or Application Development",
     description: "Custom applications that automate processes and solve business challenges across web, mobile, and desktop platforms."
   },
   {
     icon: "fas fa-palette",
-    title: "Website Design",
+    title: "Web Design",
     description: "Visually stunning designs with intuitive user experiences that drive action and strengthen your brand."
   },
   {
@@ -24,31 +24,31 @@ function Home() {
   },
   {
     icon: "fab fa-python",
-    title: "Python Programming",
-    description: "Efficient, scalable solutions for data analysis, automation, web applications, and more."
+    title: "Python (Backend) Programming",
+    description: "Hands-on Python programming tutorials for beginners and advanced learners. Learn to build applications, analyze data, and automate tasks. Efficient, scalable solutions for data analysis, automation, web applications, and more."
   },
   {
     icon: "fas fa-database",
-    title: "Data Engineering",
-    description: "Robust data infrastructures transforming raw data into valuable business insights."
-  }];
+    title: "Data Analytics Service",
+    description: "Transforming raw data into actionable insights. We help businesses make data-driven decisions through advanced analytics and visualization. Robust data infrastructures transforming raw data into valuable business insights."
+  },
+  {
+    icon: "fas fa-chalkboard-teacher",
+    title: "Teaching/Tutorial - Practical",
+    description: "Hands-on tutorials and practical sessions on various IT topics. Learn by doing with our expert instructors."
+    },
+  {
+    icon: "fas fa-cogs",
+    title: "Data Engineering Service",
+    description: "Building robust data pipelines and infrastructures to support your analytics needs. We ensure your data is clean, reliable, and ready for analysis."
+  }
+
+];
+
 
 
   const testimonials = [
-  {
-    content: "KabuTech delivered an exceptional website that perfectly captures our brand identity. Their team was professional, responsive, and truly understood our business needs.",
-    name: "Sarah Johnson",
-    role: "Marketing Director",
-    company: "GreenTech Solutions",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-  },
-  {
-    content: "The custom application KabuTech built for us has completely transformed our workflow. The attention to detail and quality of work exceeded our expectations.",
-    name: "Michael Chen",
-    role: "Operations Manager",
-    company: "Nova Industries",
-    image: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-  },
+  
   {
     content: "We've been working with KabuTech for over two years, and they continue to impress us with their technical expertise and creative problem-solving abilities.",
     name: "Amina Diallo",
@@ -150,11 +150,11 @@ function Home() {
 
                             </div>
                             <div className="absolute -bottom-6 -left-6 bg-accent-blue p-6 rounded-tl-3xl rounded-br-3xl text-white" data-id="jx97t6z0h" data-path="pages/Home.js">
-                                <div className="text-2xl font-bold mb-1" data-id="486xv683e" data-path="pages/Home.js">5+</div>
+                                <div className="text-2xl font-bold mb-1" data-id="486xv683e" data-path="pages/Home.js">4+</div>
                                 <div className="text-sm" data-id="ukja54ulk" data-path="pages/Home.js">Years of Experience</div>
                             </div>
                             <div className="absolute -top-6 -right-6 bg-primary p-6 rounded-tl-3xl rounded-br-3xl text-white" data-id="a7e958k5h" data-path="pages/Home.js">
-                                <div className="text-2xl font-bold mb-1" data-id="dyktf7lqb" data-path="pages/Home.js">100+</div>
+                                <div className="text-2xl font-bold mb-1" data-id="dyktf7lqb" data-path="pages/Home.js">70+</div>
                                 <div className="text-sm" data-id="v1d5vmcyn" data-path="pages/Home.js">Satisfied Clients</div>
                             </div>
                         </div>

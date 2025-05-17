@@ -18,7 +18,7 @@ function Services() {
   {
     id: 2,
     icon: "fas fa-mobile-alt",
-    title: "Application Development",
+    title: "Mobile or Application Development",
     description: "Custom applications that automate processes and solve business challenges across web, mobile, and desktop platforms.",
     features: [
     "Web applications",
@@ -33,7 +33,7 @@ function Services() {
   {
     id: 3,
     icon: "fas fa-palette",
-    title: "Website Design",
+    title: "Web Design",
     description: "Visually stunning designs with intuitive user experiences that drive action and strengthen your brand.",
     features: [
     "UI/UX design",
@@ -63,7 +63,7 @@ function Services() {
   {
     id: 5,
     icon: "fab fa-python",
-    title: "Python Programming",
+    title: "Python (Backend) Programming",
     description: "Efficient, scalable solutions for data analysis, automation, web applications, and more.",
     features: [
     "Web development (Django, Flask)",
@@ -75,8 +75,24 @@ function Services() {
 
     image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
   },
+
+  {id: 6,
+    icon: "fas fa-chart-line",
+    title: "Data Analytics Service",
+    description: "Transforming raw data into actionable insights to drive business decisions and strategies.",
+    features: [
+    "Data collection & cleaning",
+    "Statistical analysis",
+    "Predictive modeling",
+    "Data visualization",
+    "Business intelligence dashboards",
+    "Custom analytics solutions"],
+
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+
+  },
   {
-    id: 6,
+    id: 7,
     icon: "fas fa-database",
     title: "Data Engineering",
     description: "Robust data infrastructures transforming raw data into valuable business insights.",
@@ -89,21 +105,6 @@ function Services() {
     "Data visualization"],
 
     image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-  },
-  {
-    id: 7,
-    icon: "fas fa-globe",
-    title: "Domain Name Registration",
-    description: "Comprehensive services to secure your online identity and enhance digital presence.",
-    features: [
-    "Domain name registration",
-    "Domain name management",
-    "Domain transfer services",
-    "DNS management",
-    "SSL certificates",
-    "Domain privacy protection"],
-
-    image: "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
   }];
 
 
