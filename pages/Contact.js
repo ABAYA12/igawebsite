@@ -256,7 +256,7 @@ function Contact() {
                                     </div>
                                     <div data-id="g9en3hlwm" data-path="pages/Contact.js">
                                         <h3 className="text-xl font-semibold text-primary mb-1" data-id="1eysh237v" data-path="pages/Contact.js">WhatsApp</h3>
-                                        <p className="text-gray-600" data-id="cwpp41k9y" data-path="pages/Contact.js">+233243069237/p>
+                                        <p className="text-gray-600" data-id="cwpp41k9y" data-path="pages/Contact.js">+233 247 988 191</p>
                                         <p className="text-gray-500 text-sm" data-id="yz6zby2la" data-path="pages/Contact.js">Available for chat and quick inquiries</p>
                                     </div>
                                 </div>
