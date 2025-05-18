@@ -23,20 +23,10 @@ function Home() {
     description: "Compelling visual content from logos to marketing materials that effectively communicates your brand message."
   },
   {
-    icon: "fab fa-python",
-    title: "Python (Backend) Programming",
-    description: "Hands-on Python programming tutorials for beginners and advanced learners. Learn to build applications, analyze data, and automate tasks. Efficient, scalable solutions for data analysis, automation, web applications, and more."
-  },
-  {
     icon: "fas fa-database",
     title: "Data Analytics Service",
     description: "Transforming raw data into actionable insights. We help businesses make data-driven decisions through advanced analytics and visualization. Robust data infrastructures transforming raw data into valuable business insights."
   },
-  {
-    icon: "fas fa-chalkboard-teacher",
-    title: "Teaching/Tutorial - Practical",
-    description: "Hands-on tutorials and practical sessions on various IT topics. Learn by doing with our expert instructors."
-    },
   {
     icon: "fas fa-cogs",
     title: "Data Engineering Service",

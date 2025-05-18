@@ -60,23 +60,8 @@ function Services() {
 
     image: "https://images.unsplash.com/photo-1505238680356-667803448bb6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
   },
-  {
-    id: 5,
-    icon: "fab fa-python",
-    title: "Python (Backend) Programming",
-    description: "Efficient, scalable solutions for data analysis, automation, web applications, and more.",
-    features: [
-    "Web development (Django, Flask)",
-    "Data analysis & visualization",
-    "Machine learning & AI",
-    "Process automation",
-    "API development",
-    "Custom Python solutions"],
 
-    image: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-  },
-
-  {id: 6,
+  {id: 5,
     icon: "fas fa-chart-line",
     title: "Data Analytics Service",
     description: "Transforming raw data into actionable insights to drive business decisions and strategies.",
@@ -92,7 +77,7 @@ function Services() {
 
   },
   {
-    id: 7,
+    id: 6,
     icon: "fas fa-database",
     title: "Data Engineering",
     description: "Robust data infrastructures transforming raw data into valuable business insights.",
