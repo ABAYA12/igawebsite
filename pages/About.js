@@ -5,9 +5,9 @@ function About() {
             <section className="gradient-primary py-20 md:py-28 relative" data-id="c2c9fd400" data-path="pages/About.js">
                 <div className="container mx-auto px-4 relative z-10" data-id="ynov94ake" data-path="pages/About.js">
                     <div className="max-w-3xl mx-auto text-center text-white" data-id="jo2cmpefr" data-path="pages/About.js">
-                        <h1 className="text-4xl md:text-5xl font-bold mb-6" data-id="wefcx56h6" data-path="pages/About.js">About KabuTech</h1>
+                        <h1 className="text-4xl md:text-5xl font-bold mb-6" data-id="wefcx56h6" data-path="pages/About.js">About InsightGrid Analytics</h1>
                         <p className="text-xl text-gray-200" data-id="jdsiczjth" data-path="pages/About.js">
-                            Forward-thinking IT solutions provider helping businesses harness technology
+                            Modern data consulting and engineering firm helping businesses structure, analyze, and act on their data
                         </p>
                     </div>
                 </div>
@@ -21,19 +21,19 @@ function About() {
                         <div data-id="7jzymgbuz" data-path="pages/About.js">
                             <h2 className="text-3xl font-bold text-primary mb-6 section-title" data-id="dhiopnml6" data-path="pages/About.js">Our Story</h2>
                             <p className="text-gray-600 mb-6" data-id="fuxudooev" data-path="pages/About.js">
-                                Founded with a passion for technology and innovation, KabuTech has grown from a small IT consultancy to a comprehensive solutions provider serving businesses across various industries.
+                                Founded with a passion for data and business intelligence, InsightGrid Analytics has grown from a specialized consultancy to a comprehensive data solutions provider serving businesses across various industries.
                             </p>
                             <p className="text-gray-600 mb-6" data-id="yjspv5bsi" data-path="pages/About.js">
-                                Our journey began with a simple mission: to help businesses leverage technology to grow and succeed. Today, that mission continues to drive everything we do, as we strive to deliver cutting-edge solutions that make a real difference to our clients.
+                                Our journey began with a simple mission: to help businesses leverage their data to make smarter decisions and drive growth. Today, that mission continues to drive everything we do, as we strive to deliver scalable data solutions that make a real difference to our clients.
                             </p>
                             <p className="text-gray-600" data-id="nzlfdn84n" data-path="pages/About.js">
-                                With a team of certified professionals who combine technical expertise with creative problem-solving abilities, we're proud to be the trusted technology partner for businesses of all sizes.
+                                With a team of certified data professionals who combine technical expertise with business acumen, we're proud to be the trusted data partner for organizations of all sizes.
                             </p>
                         </div>
                         <div className="rounded-lg overflow-hidden shadow-xl" data-id="izixwcdwj" data-path="pages/About.js">
                             <img
                 src="https://images.unsplash.com/photo-1552581234-26160f608093?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-                alt="KabuTech Office"
+                alt="InsightGrid Analytics Office"
                 className="w-full h-full object-cover" data-id="n8ksk0klr" data-path="pages/About.js" />
 
                         </div>
@@ -47,7 +47,7 @@ function About() {
                             </div>
                             <h3 className="text-2xl font-bold text-primary mb-4" data-id="15ma1n9jg" data-path="pages/About.js">Our Mission</h3>
                             <p className="text-gray-600" data-id="3n6cn4dyv" data-path="pages/About.js">
-                                Empower businesses through innovative IT solutions that drive growth and efficiency. We aim to be a catalyst for digital transformation, helping our clients stay ahead in an ever-evolving technological landscape.
+                                Empower organizations with intelligent, actionable data systems that support long-term performance. We aim to be a catalyst for data-driven transformation, helping our clients stay ahead through better insights and decision-making.
                             </p>
                         </div>
                         
@@ -57,7 +57,7 @@ function About() {
                             </div>
                             <h3 className="text-2xl font-bold text-primary mb-4" data-id="jeylrqp8z" data-path="pages/About.js">Our Vision</h3>
                             <p className="text-gray-600" data-id="nfw1dokl0" data-path="pages/About.js">
-                                To be the leading IT solutions provider known for excellence, innovation, and client-centered service. We envision a future where every business can harness the full potential of technology to achieve extraordinary results.
+                                To become a trusted partner for organizations seeking clarity and structure in how they use their data. We envision a future where every business can harness the full potential of their data to achieve extraordinary results.
                             </p>
                         </div>
                         
@@ -94,9 +94,9 @@ function About() {
                     {/* Why Choose Us */}
                     <div className="bg-gray-50 rounded-xl p-8 md:p-12" data-id="5tyj88rdm" data-path="pages/About.js">
                         <div className="max-w-3xl mx-auto text-center mb-12" data-id="487pavggt" data-path="pages/About.js">
-                            <h2 className="text-3xl font-bold text-primary mb-6" data-id="4nv8ztd8p" data-path="pages/About.js">Why Choose KabuTech?</h2>
+                            <h2 className="text-3xl font-bold text-primary mb-6" data-id="4nv8ztd8p" data-path="pages/About.js">Why Choose InsightGrid Analytics?</h2>
                             <p className="text-lg text-gray-600" data-id="bymyk3p0i" data-path="pages/About.js">
-                                We differentiate ourselves through our commitment to excellence, innovation, and client satisfaction. 
+                                We differentiate ourselves through our commitment to data excellence, innovation, and client satisfaction. 
                                 Here's what sets us apart:
                             </p>
                         </div>
@@ -119,9 +119,9 @@ function About() {
                                     <i className="fas fa-lightbulb" data-id="i0w0aibq4" data-path="pages/About.js"></i>
                                 </div>
                                 <div data-id="16wv1qtwd" data-path="pages/About.js">
-                                    <h3 className="text-xl font-bold text-primary mb-2" data-id="nyki2hhny" data-path="pages/About.js">Innovative Solutions</h3>
+                                    <h3 className="text-xl font-bold text-primary mb-2" data-id="nyki2hhny" data-path="pages/About.js">Data-Driven Solutions</h3>
                                     <p className="text-gray-600" data-id="qadudk40f" data-path="pages/About.js">
-                                        We stay at the forefront of technology trends to deliver cutting-edge solutions that give our clients a competitive edge.
+                                        We stay at the forefront of data technology trends to deliver scalable analytics solutions that give our clients a competitive edge.
                                     </p>
                                 </div>
                             </div>
@@ -133,7 +133,7 @@ function About() {
                                 <div data-id="lj9mnjjrh" data-path="pages/About.js">
                                     <h3 className="text-xl font-bold text-primary mb-2" data-id="q9qwr807b" data-path="pages/About.js">Client-Centered Approach</h3>
                                     <p className="text-gray-600" data-id="tsur7j4uy" data-path="pages/About.js">
-                                        We take the time to understand your business needs and challenges, ensuring our solutions address your specific requirements.
+                                        We take the time to understand your business data needs and challenges, ensuring our analytics solutions address your specific requirements.
                                     </p>
                                 </div>
                             </div>
@@ -145,7 +145,7 @@ function About() {
                                 <div data-id="60pyqn93p" data-path="pages/About.js">
                                     <h3 className="text-xl font-bold text-primary mb-2" data-id="grjub81ws" data-path="pages/About.js">Results-Driven</h3>
                                     <p className="text-gray-600" data-id="5zvt7t4ea" data-path="pages/About.js">
-                                        We focus on delivering measurable results that contribute to your business growth and success.
+                                        We focus on delivering measurable insights and data solutions that contribute to your business performance and growth.
                                     </p>
                                 </div>
                             </div>
@@ -158,9 +158,9 @@ function About() {
             <section className="gradient-primary py-16 md:py-20 text-white" data-id="oohjwt9sg" data-path="pages/About.js">
                 <div className="container mx-auto px-4" data-id="9omky73yb" data-path="pages/About.js">
                     <div className="max-w-3xl mx-auto text-center" data-id="hmkzi6mvk" data-path="pages/About.js">
-                        <h2 className="text-3xl md:text-4xl font-bold mb-6" data-id="h6skczs3n" data-path="pages/About.js">Ready to Transform Your Business?</h2>
+                        <h2 className="text-3xl md:text-4xl font-bold mb-6" data-id="h6skczs3n" data-path="pages/About.js">Ready to Transform Your Data?</h2>
                         <p className="text-xl text-gray-200 mb-8" data-id="vwt7tvik0" data-path="pages/About.js">
-                            Partner with KabuTech to leverage cutting-edge IT solutions that drive growth and efficiency.
+                            Partner with InsightGrid Analytics to leverage modern data solutions that drive clarity, performance, and growth.
                         </p>
                         <a
               href="/contact"

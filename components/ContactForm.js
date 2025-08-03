@@ -147,14 +147,14 @@ function ContactForm() {
             className="form-select w-full rounded border-gray-300 focus:ring-0 focus:outline-none" data-id="0yka5lv64" data-path="components/ContactForm.js">
 
                         <option value="" data-id="3yk25fyfq" data-path="components/ContactForm.js">Select a service</option>
-                        <option value="Website Development" data-id="br6o8mb1a" data-path="components/ContactForm.js">Website Development</option>
-                        <option value="Application Development" data-id="63gjo39pw" data-path="components/ContactForm.js">Mobile Application Development</option>
-                        <option value="Website Design" data-id="dt6krm7hl" data-path="components/ContactForm.js">Web Design</option>
-                        <option value="Graphic Design" data-id="x3f8v45d8" data-path="components/ContactForm.js">Graphic Design</option>
-                        <option value="Python Programming" data-id="6nbkybav2" data-path="components/ContactForm.js">Teaching/Tuturial Services</option>
-                        <option value="Data Engineering" data-id="qogjfbxq0" data-path="components/ContactForm.js">Data Engineering</option>
-                        <option value="Domain Name Registration" data-id="qr3w1cf47" data-path="components/ContactForm.js">Data Analytics Services</option>
-                        <option value="Other" data-id="x1enrtg3c" data-path="components/ContactForm.js">Other</option>
+                        <option value="Business Intelligence Dashboards" data-id="biz-intel" data-path="components/ContactForm.js">Business Intelligence Dashboards</option>
+                        <option value="Data Engineering & Automation" data-id="data-eng" data-path="components/ContactForm.js">Data Engineering & Automation</option>
+                        <option value="Analytics Strategy & Consulting" data-id="analytics-strategy" data-path="components/ContactForm.js">Analytics Strategy & Consulting</option>
+                        <option value="Predictive Insights & Modeling" data-id="predictive-modeling" data-path="components/ContactForm.js">Predictive Insights & Modeling</option>
+                        <option value="Data Quality Audits" data-id="data-quality" data-path="components/ContactForm.js">Data Quality Audits</option>
+                        <option value="ETL Pipeline Development" data-id="etl-dev" data-path="components/ContactForm.js">ETL Pipeline Development</option>
+                        <option value="Custom Dashboard Projects" data-id="custom-dash" data-path="components/ContactForm.js">Custom Dashboard Projects</option>
+                        <option value="Other" data-id="other-service" data-path="components/ContactForm.js">Other</option>
                     </select>
                 </div>
                 

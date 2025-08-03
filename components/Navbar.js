@@ -32,9 +32,9 @@ function Navbar() {
                 <div className="flex justify-between items-center" data-id="vqsnu9scq" data-path="components/Navbar.js">
                     <Link to="/" className="flex items-center space-x-3">
                         <div className="w-10 h-10 bg-accent-blue rounded flex items-center justify-center" data-id="cy873dwcu" data-path="components/Navbar.js">
-                            <i className="fas fa-network-wired text-white" data-id="zqmaxvmo5" data-path="components/Navbar.js"></i>
+                            <i className="fas fa-chart-line text-white" data-id="zqmaxvmo5" data-path="components/Navbar.js"></i>
                         </div>
-                        <span className="text-xl font-bold" data-id="v3tdrl7pm" data-path="components/Navbar.js">KabuTech</span>
+                        <span className="text-xl font-bold" data-id="v3tdrl7pm" data-path="components/Navbar.js">InsightGrid Analytics</span>
                     </Link>
                     
                     {/* Desktop Navigation */}

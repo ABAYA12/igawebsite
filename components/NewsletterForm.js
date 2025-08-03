@@ -52,7 +52,7 @@ function NewsletterForm() {
   return (
     <div className="bg-white shadow-md rounded-lg p-6" data-id="vebj4fsvs" data-path="components/NewsletterForm.js">
             <h3 className="text-xl font-bold text-primary mb-4" data-id="32lxii1mr" data-path="components/NewsletterForm.js">Subscribe to Our Newsletter</h3>
-            <p className="text-gray-600 mb-6" data-id="ojdr55wqc" data-path="components/NewsletterForm.js">Stay updated with the latest news, tips, and insights from KabuTech.</p>
+            <p className="text-gray-600 mb-6" data-id="ojdr55wqc" data-path="components/NewsletterForm.js">Stay updated with the latest news, tips, and insights from InsightGrid Analytics.</p>
             
             {status.info.msg &&
       <div className={`p-3 rounded mb-4 ${status.info.error ? 'bg-red-100 text-red-700' : 'bg-green-100 text-green-700'}`} data-id="y16ec1nj1" data-path="components/NewsletterForm.js">

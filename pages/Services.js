@@ -2,94 +2,63 @@ function Services() {
   const services = [
   {
     id: 1,
-    icon: "fas fa-laptop-code",
-    title: "Website Development",
-    description: "Custom, responsive websites tailored to your brand and business goals. Optimized for performance, search engines, and conversion.",
+    icon: "fas fa-chart-bar",
+    title: "Business Intelligence Dashboards",
+    description: "Executive-ready dashboards and reports with clear KPIs and interactive analytics. Built with Power BI, Tableau, or Looker Studio.",
     features: [
-    "Responsive design for all devices",
-    "SEO optimization",
-    "Content management systems",
-    "E-commerce functionality",
-    "Custom web applications",
-    "Website maintenance & support"],
+    "Executive dashboards",
+    "KPI monitoring & reporting",
+    "Interactive data visualization",
+    "Power BI & Tableau development",
+    "Real-time analytics",
+    "Custom dashboard solutions"],
 
-    image: "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
   },
   {
     id: 2,
-    icon: "fas fa-mobile-alt",
-    title: "Mobile or Application Development",
-    description: "Custom applications that automate processes and solve business challenges across web, mobile, and desktop platforms.",
+    icon: "fas fa-cogs",
+    title: "Data Engineering & Automation",
+    description: "Clean, scalable pipelines and structured storage (SQL, Python ETL, cloud platforms). Ensure data quality, flow, and performance.",
     features: [
-    "Web applications",
-    "Mobile apps (iOS & Android)",
-    "Desktop applications",
-    "Cross-platform development",
-    "API integration",
-    "Maintenance & updates"],
+    "Data pipeline development",
+    "ETL/ELT processes",
+    "Cloud data platforms",
+    "Data quality monitoring",
+    "Automated data workflows",
+    "Database optimization"],
 
-    image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
   },
   {
     id: 3,
-    icon: "fas fa-palette",
-    title: "Web Design",
-    description: "Visually stunning designs with intuitive user experiences that drive action and strengthen your brand.",
+    icon: "fas fa-lightbulb",
+    title: "Analytics Strategy & Consulting",
+    description: "Data audits, architecture reviews, and analytics roadmaps to support smarter business decisions.",
     features: [
-    "UI/UX design",
-    "Wireframing & prototyping",
-    "Landing page design",
-    "Responsive web design",
-    "Design systems",
-    "Usability testing"],
+    "Data strategy development",
+    "Analytics roadmaps",
+    "Data architecture reviews",
+    "Technology assessments",
+    "ROI analysis",
+    "Best practices consulting"],
 
-    image: "https://images.unsplash.com/photo-1463171379579-3fdfb86d6285?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    image: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
   },
   {
     id: 4,
-    icon: "fas fa-pencil-ruler",
-    title: "Graphic Design",
-    description: "Compelling visual content from logos to marketing materials that effectively communicates your brand message.",
+    icon: "fas fa-brain",
+    title: "Predictive Insights & Modeling",
+    description: "Advanced analysis including forecasting, segmentation, fraud detection, and operational modeling.",
     features: [
-    "Logo & brand identity",
-    "Marketing materials",
-    "Social media graphics",
-    "Infographics",
-    "Print design",
-    "Packaging design"],
-
-    image: "https://images.unsplash.com/photo-1505238680356-667803448bb6?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-  },
-
-  {id: 5,
-    icon: "fas fa-chart-line",
-    title: "Data Analytics Service",
-    description: "Transforming raw data into actionable insights to drive business decisions and strategies.",
-    features: [
-    "Data collection & cleaning",
-    "Statistical analysis",
     "Predictive modeling",
-    "Data visualization",
-    "Business intelligence dashboards",
-    "Custom analytics solutions"],
+    "Forecasting solutions",
+    "Customer segmentation",
+    "Fraud detection",
+    "Operational analytics",
+    "Machine learning models"],
 
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-
-  },
-  {
-    id: 6,
-    icon: "fas fa-database",
-    title: "Data Engineering",
-    description: "Robust data infrastructures transforming raw data into valuable business insights.",
-    features: [
-    "Database design & optimization",
-    "ETL process development",
-    "Data warehousing",
-    "Business intelligence",
-    "Big data solutions",
-    "Data visualization"],
-
-    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
   }];
 
 
@@ -101,7 +70,7 @@ function Services() {
                     <div className="max-w-3xl mx-auto text-center text-white" data-id="i4kyodfpf" data-path="pages/Services.js">
                         <h1 className="text-4xl md:text-5xl font-bold mb-6" data-id="hut481jg2" data-path="pages/Services.js">Our Services</h1>
                         <p className="text-xl text-gray-200" data-id="l3y8bmmw9" data-path="pages/Services.js">
-                            Comprehensive IT solutions designed to help your business thrive
+                            Comprehensive data solutions designed to help your business thrive
                         </p>
                     </div>
                 </div>
@@ -114,8 +83,8 @@ function Services() {
                     <div className="max-w-3xl mx-auto text-center mb-16" data-id="qser8c6r5" data-path="pages/Services.js">
                         <h2 className="text-3xl font-bold text-primary mb-6" data-id="17gtc37zx" data-path="pages/Services.js">How We Can Help Your Business</h2>
                         <p className="text-lg text-gray-600" data-id="pfrj01yhh" data-path="pages/Services.js">
-                            At KabuTech, we offer a wide range of IT services designed to help your business grow, 
-                            improve efficiency, and stay competitive in today's digital landscape.
+                            At InsightGrid Analytics, we offer comprehensive data solutions designed to help your business grow, 
+                            improve decision-making, and stay competitive through intelligent data insights.
                         </p>
                     </div>
                     

@@ -192,7 +192,7 @@ function Contact() {
                     <div className="max-w-3xl mx-auto text-center text-white" data-id="uay80629m" data-path="pages/Contact.js">
                         <h1 className="text-4xl md:text-5xl font-bold mb-6" data-id="i2jjg4at9" data-path="pages/Contact.js">Contact Us</h1>
                         <p className="text-xl text-gray-200" data-id="f6b0sqg5l" data-path="pages/Contact.js">
-                            Get in touch with our team to discuss your project or inquiry
+                            Get in touch with InsightGrid Analytics today. We'll help you unlock the power of your data.
                         </p>
                     </div>
                 </div>
@@ -233,7 +233,7 @@ function Contact() {
                         <div data-id="20f1op6is" data-path="pages/Contact.js">
                             <h2 className="text-3xl font-bold text-primary mb-6 section-title" data-id="vcq4dbeo5" data-path="pages/Contact.js">Get In Touch</h2>
                             <p className="text-gray-600 mb-8" data-id="5nehb9ppm" data-path="pages/Contact.js">
-                                Whether you have a question about our services, pricing, or just want to say hello, 
+                                Whether you have a question about our data services, analytics strategy, or just want to say hello, 
                                 our team is ready to answer all your questions. Fill out the form or use one of our 
                                 contact methods below.
                             </p>
@@ -267,7 +267,7 @@ function Contact() {
                                     </div>
                                     <div data-id="zg3j9r3fz" data-path="pages/Contact.js">
                                         <h3 className="text-xl font-semibold text-primary mb-1" data-id="pi1dhtap6" data-path="pages/Contact.js">Email</h3>
-                                        <p className="text-gray-600" data-id="8mum9plpt" data-path="pages/Contact.js">support@kabutech.tech</p>
+                                        <p className="text-gray-600" data-id="8mum9plpt" data-path="pages/Contact.js">hello@insightgridanalytic.com</p>
                                         <p className="text-gray-500 text-sm" data-id="f8wzjmadb" data-path="pages/Contact.js">We'll respond as soon as possible</p>
                                     </div>
                                 </div>
@@ -287,7 +287,7 @@ function Contact() {
                             <div className="bg-gray-50 rounded-lg p-6" data-id="wqlzzrz21" data-path="pages/Contact.js">
                                 <h3 className="text-xl font-semibold text-primary mb-4" data-id="0cmf1yb1w" data-path="pages/Contact.js">Connect With Us</h3>
                                 <p className="text-gray-600 mb-6" data-id="6n6crk0ts" data-path="pages/Contact.js">
-                                    Follow us on social media to stay updated with our latest news, projects, and insights.
+                                    Follow us on social media to stay updated with our latest data insights, projects, and analytics trends.
                                 </p>
                                 <div className="flex space-x-6 text-2xl" data-id="trj738a9n" data-path="pages/Contact.js">
                                     <a href="#" className="text-gray-600 hover:text-accent-blue transition-colors" data-id="u8necemzn" data-path="pages/Contact.js">
@@ -374,7 +374,7 @@ function Contact() {
                     <div className="max-w-3xl mx-auto text-center" data-id="mj2hbycnn" data-path="pages/Contact.js">
                         <h2 className="text-3xl md:text-4xl font-bold mb-6" data-id="rb29m4gg7" data-path="pages/Contact.js">Start Your Digital Journey Today</h2>
                         <p className="text-xl text-gray-200 mb-8" data-id="3ejyu4ude" data-path="pages/Contact.js">
-                            Partner with KabuTech for innovative IT solutions that drive your business forward.
+                            Partner with InsightGrid Analytics for modern data solutions that drive your business forward.
                         </p>
                         <a
               href="tel:+233247988191"

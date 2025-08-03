@@ -6,75 +6,75 @@ function Portfolio() {
   const projects = [
   {
     id: 1,
-    title: "E-Commerce Platform",
-    category: "Web Development",
-    tags: ["website", "e-commerce"],
-    description: "A feature-rich e-commerce platform with integrated payment gateways, inventory management, and customer analytics.",
-    image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    client: "FashionHub",
-    challenge: "Creating a scalable e-commerce solution that provides a seamless shopping experience across all devices.",
-    solution: "Developed a responsive website with optimized product pages, secure payment integration, and a user-friendly admin dashboard.",
-    results: "50% increase in online sales, 30% reduction in cart abandonment, and improved customer satisfaction."
+    title: "Executive Sales Dashboard",
+    category: "Business Intelligence",
+    tags: ["dashboards", "bi"],
+    description: "A comprehensive executive dashboard providing real-time sales KPIs, revenue tracking, and performance analytics.",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    client: "TechCorp Solutions",
+    challenge: "Creating a unified view of sales performance across multiple regions and product lines for executive decision-making.",
+    solution: "Developed an interactive Power BI dashboard with real-time data integration, drill-down capabilities, and automated reporting.",
+    results: "50% faster executive reporting, improved sales forecasting accuracy, and better strategic decision-making."
   },
   {
     id: 2,
-    title: "Financial Management App",
-    category: "Application Development",
-    tags: ["application", "finance"],
-    description: "A comprehensive financial management application for personal and small business expense tracking and budgeting.",
-    image: "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    client: "BudgetWise",
-    challenge: "Building an intuitive finance app that simplifies complex financial tracking and provides actionable insights.",
-    solution: "Created a cross-platform application with expense categorization, budget forecasting, and customizable financial reports.",
-    results: "Over 10,000 downloads in the first month, with users reporting an average of 15% savings on monthly expenses."
+    title: "Customer Analytics Platform",
+    category: "Data Engineering",
+    tags: ["data", "analytics"],
+    description: "A scalable data platform consolidating customer data from multiple touchpoints for comprehensive analytics.",
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    client: "RetailMax Inc.",
+    challenge: "Integrating customer data from e-commerce, in-store, and marketing channels to create a 360-degree customer view.",
+    solution: "Built a cloud-based data warehouse with automated ETL pipelines, data quality monitoring, and real-time analytics.",
+    results: "40% improvement in customer segmentation accuracy, 25% increase in marketing ROI, and faster insights delivery."
   },
   {
     id: 3,
-    title: "Educational Platform Redesign",
-    category: "Website Design",
-    tags: ["website", "education", "design"],
-    description: "A complete redesign of an educational platform to improve user experience and content accessibility.",
-    image: "https://images.unsplash.com/photo-1597534458220-9fb4969f2df5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    client: "LearnQuest Academy",
-    challenge: "Transforming an outdated educational website into a modern, engaging learning platform.",
-    solution: "Implemented a clean, intuitive design with improved navigation, multimedia content integration, and mobile compatibility.",
-    results: "70% increase in user engagement, 45% longer session duration, and positive feedback from students and educators."
+    title: "Financial Forecasting Model",
+    category: "Predictive Analytics",
+    tags: ["modeling", "forecasting"],
+    description: "Advanced forecasting models for revenue prediction and budget planning using machine learning techniques.",
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    client: "FinanceFirst Corp",
+    challenge: "Improving financial forecasting accuracy to support better budget planning and strategic investments.",
+    solution: "Implemented machine learning models using historical data, market indicators, and seasonality patterns.",
+    results: "30% improvement in forecast accuracy, reduced budget variance, and enhanced strategic planning capabilities."
   },
   {
     id: 4,
-    title: "Restaurant Branding Package",
-    category: "Graphic Design",
-    tags: ["graphic", "branding"],
-    description: "A comprehensive branding package including logo design, menu layouts, signage, and marketing materials.",
-    image: "https://images.unsplash.com/photo-1607703703520-bb638e84caf2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTg3MTl8MHwxfHNlYXJjaHwxfHxBJTIwdmlzdWFsbHklMjBhcHBlYWxpbmclMjBpbWFnZSUyMHNob3djYXNpbmclMjBhJTIwcmVzdGF1cmFudCUyMGJyYW5kaW5nJTIwcGFja2FnZSUyQyUyMGluY2x1ZGluZyUyMGxvZ28lMjBkZXNpZ24lMkMlMjBtZW51JTIwbGF5b3V0cyUyQyUyMHNpZ25hZ2UlMkMlMjBhbmQlMjBtYXJrZXRpbmclMjBtYXRlcmlhbHMufGVufDB8fHx8MTc0NjYyNDM1N3ww&ixlib=rb-4.1.0&q=80&w=200$w=1350",
-    client: "Savory Bistro",
-    challenge: "Creating a distinctive brand identity that reflects the restaurant's unique fusion cuisine and upscale atmosphere.",
-    solution: "Designed a cohesive branding package with a sophisticated color palette, custom typography, and elegant visual elements.",
-    results: "Successful brand launch with strong visual recognition, positive press coverage, and increased customer foot traffic."
+    title: "Supply Chain Analytics",
+    category: "Business Analytics",
+    tags: ["analytics", "operations"],
+    description: "Comprehensive supply chain analytics solution for inventory optimization and demand forecasting.",
+    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    client: "LogiFlow Systems",
+    challenge: "Optimizing inventory levels and reducing supply chain costs while maintaining service levels.",
+    solution: "Developed analytics models for demand forecasting, inventory optimization, and supplier performance tracking.",
+    results: "20% reduction in inventory costs, 15% improvement in service levels, and better supplier relationships."
   },
   {
     id: 5,
-    title: "Inventory Management System",
-    category: "Python Programming",
-    tags: ["python", "data"],
-    description: "A custom inventory management system with real-time tracking, predictive ordering, and detailed analytics.",
-    image: "https://images.unsplash.com/photo-1579389083046-e3df9c2b3325?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    client: "GlobalSupply Inc.",
-    challenge: "Developing an efficient inventory system to replace manual processes and reduce stock discrepancies.",
-    solution: "Built a Python-based solution with barcode integration, automated reorder points, and comprehensive reporting features.",
-    results: "40% reduction in inventory costs, 60% decrease in stockouts, and improved supply chain efficiency."
+    title: "Healthcare Performance Dashboard",
+    category: "Dashboards & Reports",
+    tags: ["dashboards", "healthcare"],
+    description: "Real-time healthcare performance dashboard tracking patient outcomes, operational efficiency, and quality metrics.",
+    image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    client: "MediCare Hospital Group",
+    challenge: "Providing healthcare administrators with real-time visibility into operational performance and patient outcomes.",
+    solution: "Created interactive Tableau dashboards with automated data refresh, alerting systems, and mobile accessibility.",
+    results: "25% reduction in administrative time, improved patient care coordination, and enhanced operational efficiency."
   },
   {
     id: 6,
-    title: "Healthcare Data Integration",
-    category: "Data Engineering",
-    tags: ["data", "healthcare"],
-    description: "A data integration solution that consolidates patient information from multiple systems into a unified dashboard.",
-    image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    client: "MediCare Hospital Group",
-    challenge: "Integrating disparate healthcare data systems to provide a complete view of patient information for improved care.",
-    solution: "Implemented a secure data warehouse with ETL processes, real-time sync capabilities, and HIPAA-compliant access controls.",
-    results: "25% reduction in administrative time, improved diagnostic accuracy, and enhanced patient care coordination."
+    title: "Marketing Attribution Analysis",
+    category: "Data Infrastructure",
+    tags: ["data", "marketing"],
+    description: "Multi-touch attribution system tracking customer journey across digital channels for marketing optimization.",
+    image: "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    client: "DigitalGrowth Agency",
+    challenge: "Understanding the complete customer journey and attributing conversions to the right marketing channels.",
+    solution: "Built a data pipeline integrating multiple marketing platforms with advanced attribution modeling.",
+    results: "35% improvement in marketing spend efficiency, better channel optimization, and increased ROI tracking."
   }];
 
 
@@ -88,9 +88,9 @@ function Portfolio() {
             <section className="gradient-primary py-20 md:py-28 relative" data-id="2sfq436er" data-path="pages/Portfolio.js">
                 <div className="container mx-auto px-4 relative z-10" data-id="6tgr728l2" data-path="pages/Portfolio.js">
                     <div className="max-w-3xl mx-auto text-center text-white" data-id="wqg1q5ng5" data-path="pages/Portfolio.js">
-                        <h1 className="text-4xl md:text-5xl font-bold mb-6" data-id="mophat2q0" data-path="pages/Portfolio.js">Our Portfolio</h1>
+                        <h1 className="text-4xl md:text-5xl font-bold mb-6" data-id="mophat2q0" data-path="pages/Portfolio.js">Featured Projects</h1>
                         <p className="text-xl text-gray-200" data-id="e0hso00cy" data-path="pages/Portfolio.js">
-                            Showcasing our work across various industries and technologies
+                            Explore select projects focused on data systems, reporting dashboards, analytics automation, and business intelligence. Delivered across sectors such as finance, insurance, retail, and development programs.
                         </p>
                     </div>
                 </div>
@@ -103,7 +103,7 @@ function Portfolio() {
                     <div className="max-w-3xl mx-auto text-center mb-16" data-id="rdf2267qo" data-path="pages/Portfolio.js">
                         <h2 className="text-3xl font-bold text-primary mb-6" data-id="jiq77x1cd" data-path="pages/Portfolio.js">Featured Projects</h2>
                         <p className="text-lg text-gray-600 mb-8" data-id="dr8oc97gr" data-path="pages/Portfolio.js">
-                            Browse through our collection of successful projects delivered for clients across various industries.
+                            Browse through our collection of successful data projects delivered for clients across various industries.
                         </p>
                         
                         {/* Filter Buttons */}
@@ -119,34 +119,14 @@ function Portfolio() {
                                 All Projects
                             </button>
                             <button
-                onClick={() => setFilter('website')}
+                onClick={() => setFilter('dashboards')}
                 className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
-                filter === 'website' ?
+                filter === 'dashboards' ?
                 'bg-primary text-white' :
                 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`
                 } data-id="h229t3xfb" data-path="pages/Portfolio.js">
 
-                                Websites
-                            </button>
-                            <button
-                onClick={() => setFilter('application')}
-                className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
-                filter === 'application' ?
-                'bg-primary text-white' :
-                'bg-gray-200 text-gray-800 hover:bg-gray-300'}`
-                } data-id="qpj2cd3py" data-path="pages/Portfolio.js">
-
-                                Applications
-                            </button>
-                            <button
-                onClick={() => setFilter('design')}
-                className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
-                filter === 'design' ?
-                'bg-primary text-white' :
-                'bg-gray-200 text-gray-800 hover:bg-gray-300'}`
-                } data-id="kar411jj6" data-path="pages/Portfolio.js">
-
-                                Design
+                                Dashboards & Reports
                             </button>
                             <button
                 onClick={() => setFilter('data')}
@@ -154,9 +134,29 @@ function Portfolio() {
                 filter === 'data' ?
                 'bg-primary text-white' :
                 'bg-gray-200 text-gray-800 hover:bg-gray-300'}`
+                } data-id="qpj2cd3py" data-path="pages/Portfolio.js">
+
+                                Data Infrastructure
+                            </button>
+                            <button
+                onClick={() => setFilter('analytics')}
+                className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
+                filter === 'analytics' ?
+                'bg-primary text-white' :
+                'bg-gray-200 text-gray-800 hover:bg-gray-300'}`
+                } data-id="kar411jj6" data-path="pages/Portfolio.js">
+
+                                Business Analytics Projects
+                            </button>
+                            <button
+                onClick={() => setFilter('modeling')}
+                className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
+                filter === 'modeling' ?
+                'bg-primary text-white' :
+                'bg-gray-200 text-gray-800 hover:bg-gray-300'}`
                 } data-id="lrhkznt8j" data-path="pages/Portfolio.js">
 
-                                Data Solutions
+                                API/Data Integrations
                             </button>
                         </div>
                     </div>

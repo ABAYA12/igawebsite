@@ -6,84 +6,72 @@ function Blog() {
   const blogPosts = [
   {
     id: 1,
-    title: "10 Web Development Trends to Watch in 2023",
-    excerpt: "Stay ahead of the curve with the latest web development technologies and methodologies that are shaping the digital landscape in 2023.",
+    title: "5 Dashboard Metrics Every Business Leader Should Track",
+    excerpt: "Learn how the right KPIs in your executive dashboards can drive smarter decisions and improve visibility.",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, at fermentum nulla ultrices. Integer commodo sem nec tincidunt auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at urna et mi hendrerit gravida vel eget enim.",
     date: "June 15, 2023",
     author: "David Chen",
-    category: "Technology Trends",
-    tags: ["web development", "trends", "technology"],
-    image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    slug: "web-development-trends-2023"
+    category: "Business Intelligence",
+    tags: ["BI dashboards", "KPI", "reporting", "analytics"],
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    slug: "dashboard-metrics-business-leaders"
   },
   {
     id: 2,
-    title: "How to Improve Your Website's Load Time",
-    excerpt: "Discover practical techniques to optimize your website's performance and reduce load times for better user experience and SEO rankings.",
+    title: "Building Reliable Data Pipelines: Tools and Best Practices",
+    excerpt: "A guide to building robust data pipelines using Python, SQL, and modern ETL frameworks.",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, at fermentum nulla ultrices. Integer commodo sem nec tincidunt auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at urna et mi hendrerit gravida vel eget enim.",
     date: "May 28, 2023",
     author: "Sarah Johnson",
-    category: "Web Development",
-    tags: ["performance", "optimization", "web development"],
-    image: "https://images.unsplash.com/photo-1523800503107-5bc3ba2a6f81?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    slug: "improve-website-load-time"
+    category: "Data Infrastructure",
+    tags: ["data engineering", "ETL", "analytics", "data quality"],
+    image: "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    slug: "building-reliable-data-pipelines"
   },
   {
     id: 3,
-    title: "Essential Cybersecurity Measures for Small Businesses",
-    excerpt: "Learn about the critical security steps small businesses should implement to protect their data and systems from cyber threats.",
+    title: "Forecasting Business Performance with Historical Data",
+    excerpt: "How to apply time series forecasting and trend modeling to anticipate future outcomes.",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, at fermentum nulla ultrices. Integer commodo sem nec tincidunt auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at urna et mi hendrerit gravida vel eget enim.",
     date: "May 12, 2023",
     author: "Michael Torres",
-    category: "Data Security",
-    tags: ["cybersecurity", "small business", "data protection"],
-    image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    slug: "cybersecurity-small-businesses"
+    category: "Forecasting & Predictive Models",
+    tags: ["forecasting", "machine learning", "analytics", "data engineering"],
+    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    slug: "forecasting-business-performance"
   },
   {
     id: 4,
-    title: "The Role of AI in Modern Business Operations",
-    excerpt: "Explore how artificial intelligence is transforming business processes and creating new opportunities for efficiency and innovation.",
+    title: "Common Data Quality Issues and How to Fix Them",
+    excerpt: "Real-world examples of data integrity challenges and strategies to resolve them.",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, at fermentum nulla ultrices. Integer commodo sem nec tincidunt auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at urna et mi hendrerit gravida vel eget enim.",
     date: "April 30, 2023",
     author: "Jessica Lee",
-    category: "Digital Transformation",
-    tags: ["AI", "business", "innovation"],
-    image: "https://images.unsplash.com/photo-1535378917042-10a22c95931a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    slug: "ai-in-business-operations"
+    category: "Data Strategy & Governance",
+    tags: ["data quality", "governance", "ETL", "reporting"],
+    image: "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    slug: "data-quality-issues-solutions"
   },
   {
     id: 5,
-    title: "Python vs. JavaScript: Choosing the Right Language for Your Project",
-    excerpt: "A comprehensive comparison of Python and JavaScript to help you decide which programming language best suits your development needs.",
+    title: "What Is a Modern Data Stack? Explained Simply",
+    excerpt: "An introduction to modern analytics architecture and how businesses can benefit from tools like dbt, Snowflake, and Airbyte.",
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, at fermentum nulla ultrices. Integer commodo sem nec tincidunt auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at urna et mi hendrerit gravida vel eget enim.",
     date: "April 15, 2023",
     author: "Robert Kim",
-    category: "Python Programming",
-    tags: ["python", "javascript", "programming"],
-    image: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    slug: "python-vs-javascript"
-  },
-  {
-    id: 6,
-    title: "Building a Successful E-commerce Strategy",
-    excerpt: "Key considerations and best practices for developing an effective e-commerce strategy that drives sales and enhances customer experience.",
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod metus vel sem bibendum, at fermentum nulla ultrices. Integer commodo sem nec tincidunt auctor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at urna et mi hendrerit gravida vel eget enim.",
-    date: "March 28, 2023",
-    author: "Emily Wilson",
-    category: "Web Development",
-    tags: ["e-commerce", "strategy", "business"],
-    image: "https://images.unsplash.com/photo-1556742031-c6961e8560b0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    slug: "ecommerce-strategy"
+    category: "Analytics Engineering",
+    tags: ["data engineering", "BI dashboards", "analytics", "data quality"],
+    image: "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    slug: "modern-data-stack-explained"
   }];
 
 
   const categories = [
-  "Technology Trends",
-  "Web Development",
-  "Data Security",
-  "Digital Transformation",
-  "Python Programming"];
+  "Business Intelligence",
+  "Data Infrastructure",
+  "Forecasting & Predictive Models",
+  "Data Strategy & Governance",
+  "Analytics Engineering"];
 
 
   const filteredPosts = filter === 'all' ?
@@ -98,7 +86,7 @@ function Blog() {
                     <div className="max-w-3xl mx-auto text-center text-white" data-id="rb14t6onb" data-path="pages/Blog.js">
                         <h1 className="text-4xl md:text-5xl font-bold mb-6" data-id="c07f78o1v" data-path="pages/Blog.js">Our Blog</h1>
                         <p className="text-xl text-gray-200" data-id="rulb6iasb" data-path="pages/Blog.js">
-                            Insights, tips, and updates from the world of technology
+                            Insights, stories, and practical guidance in analytics, data strategy, and intelligent systems.
                         </p>
                     </div>
                 </div>
