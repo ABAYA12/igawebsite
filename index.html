@@ -45,6 +45,17 @@
 		<script src="https://ezsite.ai/ezsite-chatbot.js"></script>
 	<meta property="og:title" content="InsightGrid Analytics: Your Partner in Data Intelligence"><meta property="og:description" content="Transform your business with InsightGrid Analytics' data solutions designed to drive clarity, performance, and growth."><meta name="twitter:title" content="🚀 InsightGrid Analytics: Data Solutions"><meta name="twitter:description" content="Empower your business with InsightGrid Analytics' modern data consulting and engineering services."></head>
 	<body>
+		<!-- GitHub Pages SPA redirect handler -->
+		<script>
+			(function() {
+				var redirect = sessionStorage.redirect;
+				delete sessionStorage.redirect;
+				if (redirect && redirect != location.href) {
+					history.replaceState(null, null, redirect);
+				}
+			})();
+		</script>
+		
 		<div id="root"></div>
 		
 		<!-- React and React DOM -->

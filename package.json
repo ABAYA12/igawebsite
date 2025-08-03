@@ -6,7 +6,9 @@
   "scripts": {
     "start": "python3 server.py 8000",
     "dev": "python3 server.py 8000",
-    "serve": "python3 server.py"
+    "serve": "python3 server.py",
+    "test": "python3 test_deployment.py",
+    "test:prod": "python3 test_deployment.py"
   },
   "keywords": ["analytics", "data", "consultancy", "react", "spa"],
   "author": "InsightGrid Analytics",

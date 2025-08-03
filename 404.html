@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InsightGrid Analytics</title>
+    <script>
+        // GitHub Pages SPA redirect handler
+        // This script takes the current page pathname and redirects to the homepage
+        // with the pathname as a query parameter
+        (function() {
+            var redirect = sessionStorage.redirect;
+            delete sessionStorage.redirect;
+            if (redirect && redirect != location.href) {
+                history.replaceState(null, null, redirect);
+            }
+        })();
+    </script>
+</head>
+<body>
+    <!-- GitHub Pages 404 page for SPA routing -->
+    <script>
+        // Store the pathname in sessionStorage and redirect to index
+        sessionStorage.redirect = location.href;
+        location.replace(location.origin + location.pathname.split('/').slice(0, -1).join('/') + '/?redirect=' + location.pathname);
+    </script>
+</body>
+</html>
