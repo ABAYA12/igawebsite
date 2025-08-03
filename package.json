@@ -1,0 +1,14 @@
+{
+  "name": "insightgrid-analytics",
+  "version": "1.0.0",
+  "description": "InsightGrid Analytics - Data Consultancy Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 server.py 8000",
+    "dev": "python3 server.py 8000",
+    "serve": "python3 server.py"
+  },
+  "keywords": ["analytics", "data", "consultancy", "react", "spa"],
+  "author": "InsightGrid Analytics",
+  "license": "MIT"
+}
